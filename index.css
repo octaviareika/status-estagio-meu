@@ -1,0 +1,35 @@
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+   /*degrade*/
+    background: linear-gradient(90deg, rgb(21, 223, 58) 0%, rgb(104, 254, 104) 50%, rgba(9, 255, 120, 0.727) 100%);
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 10%;
+    height: 50%;
+}
+
+body {
+    background-color: rgb(0, 0, 0);
+}
+
+h1 {
+    color: rgb(119, 24, 209);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    color: rgb(117, 21, 206);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.afirmacao {
+    color: rgb(117, 21, 206);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:100px;
+    font-weight: bold;
+}
